@@ -16,10 +16,10 @@ revelando posições até completar o jogo.
 
 Este projeto ajudou a consolidar conceitos como:
 
--   manipulação de matrizes\
--   entrada e saída de dados\
--   lógica condicional\
--   laços de repetição\
+-   manipulação de matrizes
+-   entrada e saída de dados
+-   lógica condicional
+-   laços de repetição
 -   funções em C
 
 ## Modos de Jogo
